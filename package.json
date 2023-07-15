@@ -1,8 +1,10 @@
 {
-  "name": "night-moon",
-  "displayName": "Night Moon Theme",
+  "name": "MoonNightTheme",
+  "displayName": "Moon Night Theme",
+  "publisher": "PerevozkinDmitrij",
+  "icon": "./images/moon.png",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
